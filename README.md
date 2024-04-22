@@ -16,10 +16,10 @@ Copyright (C) 2023 Free Software Foundation, Inc.
 
 # ENTREGA
 ### 3. Para entregar el trabajo se genera un tag y se pushea el proyecto.
-1. git status 
-2. git add *
-3. git commit -m //COMENTARIO
-4. git push
-5. git tag -a TP0 -m //ETIQUETA + COMENTARIO
-6. git push origin TP0 
+• git status 
+• git add *
+• git commit -m //COMENTARIO
+• git push
+• git tag -a TP0 -m //ETIQUETA + COMENTARIO
+• git push origin TP0 
 
