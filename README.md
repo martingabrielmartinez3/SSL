@@ -15,9 +15,9 @@ Copyright (C) 2023 Free Software Foundation, Inc.
 3) Estuve indagando qué estandares de C se corresponden con esta versión de compilador pero no hallé una fuente concreta, hay opiniones de programadores en diversos foros pero tuve más dudas que certezas.
 
 # ENTREGA
-### 3. Para entregar el trabajo se genera un tag y se pushea el proyecto.
-> a- git status 
-> b. git add *
+3. Para entregar el trabajo se genera un tag y se pushea el proyecto.
+    a - git status 
+    b - git add 
 3. git commit -m //COMENTARIO
 4. git push
 5. git tag -a TP0 -m //ETIQUETA + COMENTARIO
